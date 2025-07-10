@@ -3,5 +3,4 @@
 # Languages 
 ## C++
 ## Python
-## Rust
 
